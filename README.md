@@ -38,7 +38,7 @@ Essa é uma regra prática simplificada; o resultado real depende do consumo esp
 
 **Resultado:**
 
-> O etanol está compensando para o seu Hyundai Tucson.
+> O etanol está compensando para o seu Chevrolet Opala Diplomata.
 
 ## Tecnologias utilizadas
 
